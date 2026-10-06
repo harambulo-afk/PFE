@@ -14,6 +14,22 @@ Aplicación local para estructurar proyectos de media tensión. Integra el plani
 
 Versión de desarrollo **5.2.0**. La demostración se coordina con Planning for Evolution. Los archivos `.p4emt` permiten guardar e intercambiar casos.
 
+## Recorrido visual
+
+Capturas de la aplicación con un caso demostrativo y datos sintéticos. No corresponden a un proyecto ni a un cliente real.
+
+### 1. Cuadro de cargas
+
+![P4E MT: cuadro de cargas de un caso demostrativo](../assets/mt-cargas.png)
+
+### 2. Red y prediseño
+
+![P4E MT: esquema de red y parámetros del prediseño](../assets/mt-red.png)
+
+### 3. Metrados y presupuesto
+
+![P4E MT: estructura de metrados y presupuesto, sin cotización comercial](../assets/mt-presupuesto.png)
+
 ## Alcance
 
 Los cálculos corresponden a prediseño radial equilibrado y a verificaciones específicas del alcance implementado. Requieren revisión profesional y no sustituyen estudios integrales de protecciones, dinámica o puesta a tierra. La distribución sobre imágenes es conceptual.

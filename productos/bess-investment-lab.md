@@ -17,6 +17,22 @@ El aplicativo organiza un recorrido desde la necesidad técnica hasta el predime
 
 V2 está en validación. Su identificador técnico de prepublicación es **6.0.0-beta.1**. La vista previa evoluciona durante el desarrollo.
 
+## Recorrido visual
+
+Capturas de la aplicación con datos sintéticos para demostración. Los valores no representan un proyecto ni información de clientes.
+
+### 1. Necesidad del sistema
+
+![BESS Investment Lab: inicio del recorrido y selección de la necesidad](../assets/bess-inicio.png)
+
+### 2. Predimensionamiento
+
+![BESS Investment Lab: diseño con un caso demostrativo de 500 kW y 2 horas](../assets/bess-diseno.png)
+
+### 3. Evaluación económica
+
+![BESS Investment Lab: evaluación económica del caso demostrativo](../assets/bess-economia.png)
+
 ## Alcance
 
 Herramienta de prefactibilidad y formación. No acredita desempeño dinámico, habilitación de servicios ni aprobación de un operador. Los ingresos y costos dependen de datos y condiciones documentadas para cada caso. Los proyectos se conservan en el navegador o mediante archivos exportados.
