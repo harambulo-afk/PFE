@@ -6,8 +6,8 @@ Desarrollamos estudios y herramientas para apoyar decisiones en sistemas eléctr
 
 | Producto | Qué ayuda a resolver | Estado |
 |---|---|---|
-| **BESS Investment Lab** | Conectar necesidad, potencia, energía, operación y evaluación económica de almacenamiento. | V2 en validación · [Vista previa](https://bess-investment-lab-v2-preview.harambulo.workers.dev/) |
-| **P4E MT** | Organizar cargas, prediseño radial, red, metrados, presupuesto y expediente de media tensión. | Aplicación local 5.2.0 · demostración bajo coordinación |
+| **[BESS Investment Lab](productos/bess-investment-lab.md)** | Conectar necesidad, potencia, energía, operación y evaluación económica de almacenamiento. | V2 en validación · [Vista previa](https://bess-investment-lab-v2-preview.harambulo.workers.dev/) |
+| **[P4E MT](productos/p4e-mt.md)** | Organizar cargas, prediseño radial, red, metrados, presupuesto y expediente de media tensión. | Aplicación local 5.2.0 · demostración bajo coordinación |
 
 ## Cómo trabajamos
 
